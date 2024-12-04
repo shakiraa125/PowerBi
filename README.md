@@ -13,7 +13,7 @@ Comprehensive HR and Sales Analysis: Insights into employee performance, recruit
 Advanced DAX queries to create custom measures and calculations.
 Interactive dashboards with visually engaging charts, graphs, and KPIs for actionable insights.
 
-## [Real-Time Twitter Analysis Dashboard,PowerBi](https://github.com/shakiraa125/PowerBi/blob/main/Zephyr-Project.pbix)
+## [Real-Time Twitter Analysis Dashboard,PowerBi](https://github.com/shakiraa125/PowerBi/blob/main/RealTime%20Twitter%20Analysis/TWITTER-DASHBOARD.pbix)
 Created interactive visualizations like scatter charts, pie charts, and stacked column charts for dynamic analysis.
 Applied advanced DAX measures to solve complex tasks, such as analyzing engagement rates, media views, and click proportions.
 Implemented multi-layered filters and drill-through functionality for precise insights.
