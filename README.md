@@ -16,7 +16,7 @@ Interactive dashboards with visually engaging charts, graphs, and KPIs for actio
 ## [Real-Time Twitter Analysis Dashboard,PowerBi](https://github.com/shakiraa125/PowerBi/blob/main/RealTime%20Twitter%20Analysis/TWITTER-DASHBOARD.pbix)
 Created interactive visualizations like scatter charts, pie charts, and stacked column charts for dynamic analysis.
 Applied advanced DAX measures to solve complex tasks, such as analyzing engagement rates, media views, and click proportions.
-Implemented multi-layered filters and drill-through functionality for precise insights.
+Implemented multi-layered filters and drill-through functionality for precise insights./
 KEY VISUALS AND INSIGHTS
 11
 •Tweet by Week:
@@ -50,6 +50,6 @@ the week.
 •Total Tweets: 1,166
 •Insight: These provide a snapshot of overall performance.
 •Dropdown Slicer:
-•Allows filtering data by month for focused analysis.
+•Allows filtering data by month for focused analysis./
 💡 Key Learnings:
 This project sharpened my skills in data transformation, visualization, and problem-solving while boosting my confidence in Power BI!
