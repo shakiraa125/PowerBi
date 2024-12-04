@@ -13,43 +13,8 @@ Comprehensive HR and Sales Analysis: Insights into employee performance, recruit
 Advanced DAX queries to create custom measures and calculations.
 Interactive dashboards with visually engaging charts, graphs, and KPIs for actionable insights.
 
-## [Real-Time Twitter Analysis Dashboard,PowerBi](https://github.com/shakiraa125/PowerBi/blob/main/RealTime%20Twitter%20Analysis/TWITTER-DASHBOARD.pbix)
+## [Real-Time Twitter Analysis Dashboard,PowerBi](https://github.com/shakiraa125/PowerBi/tree/main/RealTime%20Twitter%20Analysis)
 Created interactive visualizations like scatter charts, pie charts, and stacked column charts for dynamic analysis.
 Applied advanced DAX measures to solve complex tasks, such as analyzing engagement rates, media views, and click proportions.
-Implemented multi-layered filters and drill-through functionality for precise insights./
-KEY VISUALS AND INSIGHTS
-11
-•Tweet by Week:
-•Line Chart: Displays the count of tweets per day of the week.
-•Insight: Tweets decline towards the weekend, with the highest activity early in the week.
-•Media Engagements vs. Media Views:
-•Clustered Bar Chart: Compares the number of media engagements and media views for each day of 
-the week.
-•Insight: Media engagement trends closely follow media view trends.
-•Tweet by Week (Bar Version):
-•Bar Chart: Another representation of tweet counts by day of the week, with a focus on volume.
-•Insight: Highlights consistent trends in daily tweet activity.
-•Retweets and Likes:
-•Gauge Charts: Show progress toward predefined goals for retweets and likes.
-•Insight: Retweets are low compared to likes, indicating higher engagement with likes.
-•URL Clicks by Tweet:
-•Horizontal Bar Chart: Displays tweets with the highest number of URL clicks.
-•Insight: The top-performing tweets drive significantly more clicks than others.
-.
-•Clicks Breakdown (Hashtags, URLs, Profiles):
-•Pie Chart: Represents the distribution of click types (hashtag clicks, URL clicks, profile clicks).
-•Insight: All categories have equal proportions, showing balanced interactions.
-•Impressions by Week:
-•Line Chart: Tracks the total impressions over the week.
-•Insight: Impressions drop as the week progresses.
-•KPI Metrics:
-•Card Visuals: Highlight key performance indicators such as:
-•Total Media Views: 89K
-•Impressions: 781.90K
-•Engagement Rate: 0.04
-•Total Tweets: 1,166
-•Insight: These provide a snapshot of overall performance.
-•Dropdown Slicer:
-•Allows filtering data by month for focused analysis./
-💡 Key Learnings:
-This project sharpened my skills in data transformation, visualization, and problem-solving while boosting my confidence in Power BI!
+Implemented multi-layered filters and drill-through functionality for precise insights.
+
