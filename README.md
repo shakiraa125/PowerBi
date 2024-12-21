@@ -1,3 +1,41 @@
+## [Covid19 Worldwide Analysis]()
+This report highlights key insights from a comprehensive analysis of COVID-19 statistics, including cases, deaths, recoveries, and testing efforts worldwide.
+Key Statistics
+Total Cases: 18M
+Total Recovered: 12M
+Total Deaths: 624K
+Total Tests: 241M
+Visual Insights
+1. Deaths by Country
+Countries with the highest death tolls include:
+USA: 163K
+Brazil: 99K
+Mexico: 51K
+India: 42K
+Italy: 35K
+2. Cases vs. Recovered by Country
+Visualized as a bar chart, the comparison highlights:
+USA: Leading with cases and recoveries.
+Brazil & India: Significant recovery rates amid high case counts.
+3. Proportions of Cases, Deaths, and Recoveries
+A pie chart depicting:
+Cases: 59.14%
+Deaths: 2.02%
+Recoveries: 38.8%
+4. Tests vs. Cases
+Testing efforts visualized by WHO regions show:
+Americas and Europe lead testing and case counts, with South-East Asia trailing.
+5. Tests by Country
+Countries with the highest testing rates:
+USA: Over 60M tests
+Russia, India, and Brazil: Major contributors to testing efforts.
+6. Top 3 WHO Regions by Deaths
+Americas: The highest death count.
+Europe: Second in fatalities.
+South-East Asia: Comparatively fewer deaths.
+Conclusion
+The analysis underscores the importance of robust healthcare systems, efficient testing, and vaccine distribution. The varying impacts across countries and regions highlight the need for global collaboration in combating the pandemic.
+
 ## [Blinkit Dashboard Analysis,PowerBi ](https://github.com/shakiraa125/PowerBi/blob/main/Blinkit%20Dashboard.pbix)
 This Power BI dashboard offers an in-depth analysis of grocery store sales performance, customer behavior, product trends,Sales Performance,Product Categories and Outlet Summery.
 ## [SuperMarket Dashboard Analysis,PowerBi](https://github.com/shakiraa125/PowerBi/blob/main/Sales%20Dashboard.pbix)
